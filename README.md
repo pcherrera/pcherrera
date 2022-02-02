@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pcherrera PhD Candidate in Mathematics at UC chile
+- 👋 Hi, I’m @pcherrera PhD Candidate in Mathematics at UC chile.
 - 👀 I’m interested in mathematics, numerical analysis.
 - 🌱 I’m currently learning C++ for High Performance Computing.
 - 📫 How to reach me pcherrera.github.io/
