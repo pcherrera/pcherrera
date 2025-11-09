@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pcherrera PhD in Mathematics at UC chile.
 - 👀 I’m interested in mathematics, numerical analysis.
-- 🌱 I’m currently postdoct at PUCV
+- 🌱 I’m currently postdoct at BCAM
 - 📫 How to reach me pcherrera.github.io/
 
 <!---
